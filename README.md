@@ -1,6 +1,6 @@
 # Open-cross-platform-standard-and-implementation-for-FSRS
 
-### An Open Initiative for Cross-Platform Learning Data Interoperability
+### FSRS-Align — An Open Initiative for Cross-Platform Learning Data Interoperability
 
 FSRS-Align is an open-source project focused on establishing a common approach to transferring flashcards, learning history, and spaced repetition data across educational platforms.
 
@@ -45,4 +45,4 @@ FSRS-Align is an open-source project released under the MIT License. See the [LI
 
 ## Repository
 
-[GitHub — Open-cross-platform-standard-and-implementation-for-FSRS](https://github.com/epetrov1/Open-cross-platform-standard-and-implementation-for-FSRS)
+[Open-cross-platform-standard-and-implementation-for-FSRS](https://github.com/epetrov1/Open-cross-platform-standard-and-implementation-for-FSRS)
