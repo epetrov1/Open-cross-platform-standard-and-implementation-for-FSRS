@@ -45,4 +45,4 @@ FSRS-Align is an open-source project released under the MIT License. See the [LI
 
 ## Repository
 
-[GitHub — FSRS-Align](https://github.com/epetrov1/Open-cross-platform-standard-and-implementation-for-FSRS)
+[GitHub — Open-cross-platform-standard-and-implementation-for-FSRS](https://github.com/epetrov1/Open-cross-platform-standard-and-implementation-for-FSRS)
